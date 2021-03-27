@@ -1,0 +1,21 @@
+body {
+  background-color: #37474f;
+  color: yellow;
+  background-image: url(https://images.pexels.com/photos/33545/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+
+  height: 550px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.weatherApp {
+  justify-content: center;
+  margin-top: 0 auto;
+  text-align: center;
+}
+.head {
+  font-family: monospace;
+  font-size: 89px;
+}
